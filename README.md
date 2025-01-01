@@ -91,7 +91,7 @@ NexaMod combines a React-based frontend with a backend powered by advanced conte
 ---
 
 ## Architecture
-*(To be defined)*
+![alt text](https://github.com/Poojsri/NexaMod/blob/main/arch NexMod.jpg?raw=true)
 
 ---
 
